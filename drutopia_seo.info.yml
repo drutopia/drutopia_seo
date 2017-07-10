@@ -1,0 +1,7 @@
+name: 'Drutopia SEO'
+description: "Sensible Search Engine Optimization default configuration for a site.\r\n"
+type: module
+core: 8.x
+dependencies:
+  - metatag
+package: Drutopia
