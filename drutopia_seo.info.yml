@@ -1,5 +1,5 @@
 name: 'Drutopia SEO'
-description: "Sensible Search Engine Optimization default configuration for a site.\r\n"
+description: "Sensible Search Engine Optimization default configuration for a site."
 type: module
 core: 8.x
 dependencies:
