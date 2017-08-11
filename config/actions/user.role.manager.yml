@@ -2,5 +2,5 @@ path:
 - permissions
 plugin: add
 actions:
-'administer meta tags'
-value: 'administer meta tags'
+  'administer meta tags'
+    value: 'administer meta tags'
