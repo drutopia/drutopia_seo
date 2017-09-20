@@ -7,6 +7,6 @@
   "minimum-stability": "dev",
   "require": {
     "drupal/metatag": "^1.1",
-    "drupal/config_actions": "^1.0-beta1",
+    "drupal/config_actions": "^1.0-beta1"
   }
 }
