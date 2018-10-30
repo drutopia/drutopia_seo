@@ -1,12 +1,12 @@
 {
-  "name": "drupal/drutopia_seo",
-  "description": "Sensible Search Engine Optimization default configuration for a site.",
-  "type": "drupal-module",
-  "license": "GPL-2.0+",
-  "homepage": "https://gitlab.com/drutopia/drutopia_seo",
-  "minimum-stability": "dev",
-  "require": {
-    "drupal/metatag": "^1.1",
-    "drupal/config_actions": "^1.0-beta1"
-  }
+    "name": "drupal/drutopia_seo",
+    "description": "Sensible Search Engine Optimization default configuration for a site.",
+    "type": "drupal-module",
+    "license": "GPL-2.0+",
+    "homepage": "https://gitlab.com/drutopia/drutopia_seo",
+    "minimum-stability": "dev",
+    "require": {
+        "drupal/metatag": "^1.1",
+        "drupal/config_actions": "^1.0-beta1"
+    }
 }
