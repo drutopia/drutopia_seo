@@ -9,4 +9,5 @@ dependencies:
   - metatag
   - node
   - redirect
+  - redirect_404
 package: Drutopia
